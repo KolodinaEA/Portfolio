@@ -10,3 +10,4 @@
 ### Что необходимо было сделать:
 #### 1. Настроить в калькуляторе учёт корректировок плана маркетинга;
 #### 2. Пересчитать план найма преподавателей.
+#### https://docs.google.com/spreadsheets/d/12_WDqq-TY4-_NBkHClkGnBe63B_FamzL/edit?usp=sharing&ouid=116886169231538263212&rtpof=true&sd=true
